@@ -1,0 +1,70 @@
+body{
+    background-color: #F7FAFC;
+}
+
+.header{
+    text-align: center;
+    padding-top: 40px;
+}
+
+h2{
+    color: #555;
+    font-size: 20px;
+}
+ul.nav-pills{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.nav-pills>li+li{
+    margin-left: 0px;
+}
+a{
+    background-color: #F7FAFC !important ;
+    color: #999;
+    font-size: 25px;
+}
+
+.active a{
+    color: #4eEeEe !important;
+}
+
+a:hover{
+    background-color: #F7FAFC !important ;
+    color: #4eEeEe !important;
+    text-decoration: none !important;
+}
+.form-group-lg .form-control{
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 2px;
+}
+.form-group-lg .btn-info{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 300px;
+}
+.signform{
+    text-align: center;
+}
+p a{
+    font-size: 14px;
+}
+.for_err_pos{
+    position: relative;
+}
+.errorInfo{
+    color: red;
+    font-weight: 900;
+    position: absolute;
+    top: 13px;
+}
+#yzm{
+    width: 148px;
+    display: inline-block;
+}
+#yzm .errorInfo{
+    position: absolute;
+    top: 50px;
+    right: 150px;
+}

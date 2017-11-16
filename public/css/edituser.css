@@ -1,0 +1,15 @@
+.edit_area{
+}
+.edit_area .opr_title_content{
+    font-size: 35px;
+    line-height: 35px;
+}
+.edit_area .opr_title_content .glyphicon-cog{
+    font-size: 28px;
+}
+.opr_title{
+    padding-top: 30px;
+}
+.form-group .col-sm-4{
+    color: #777;
+}

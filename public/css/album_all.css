@@ -1,0 +1,30 @@
+.album{
+    background-color: #fff;
+    padding: 15px;
+}
+.title{
+    padding-top: 15px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.album{
+    border: 1px solid #ccc;
+    margin-top: 15px;
+}
+.album_name{
+    font-size: 20px;
+    font-weight: 600;
+}
+.album_description{
+    color: #999;
+}
+span.pic_num{
+    position: absolute;
+    bottom: 0px;
+    right: 5%;
+    color: #fff;
+    font-size: 30px;
+}
+.btn_op_album{
+    width: 50%;
+}

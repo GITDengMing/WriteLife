@@ -1,0 +1,42 @@
+#user_brief_info{
+    /*height: 600px;*/
+    background-color: #fff;
+    padding: 15px;
+}
+#user_img_name{
+    height: 120px;
+}
+.user_in_com{
+    width: 110px;
+    height:110px;
+}
+#big_userimage{
+    width: 110px;
+    height: 110px;
+}
+#num_writes {
+    /*height: 195px;*/
+}
+#num_writes .row{
+    margin-bottom: 5px;
+}
+.col-xs-4 a.number{
+    display: block;
+    font-size: 25px;
+    text-align: center;
+}
+.col-xs-4 a.num_category{
+    display: block;
+    text-align: center;
+    color: #444;
+}
+.col-xs-4 a.num_category:hover{
+    color: #444 !important;
+}
+h4{
+    font-size: 20px;
+    font-weight: 900;
+}
+.user_operation a{
+    margin-bottom: 5px;
+}

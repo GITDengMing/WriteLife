@@ -1,0 +1,21 @@
+.diary{
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.illustrate{
+    background-color: #fff;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+.illustrate p{
+    font-size: 30px;
+    font-weight: 600;
+}
+.content{
+    padding: 15px;
+}
+.create_diary_btn{
+    background-color: #fff;
+    padding: 30px;
+}

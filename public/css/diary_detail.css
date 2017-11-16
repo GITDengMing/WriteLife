@@ -1,0 +1,11 @@
+.diary_detail{
+    background-color: #fff;
+    padding:15px;
+}
+.name,.time{
+    color: #919191;
+    font-size: 20px;
+}
+.diary_content{
+    padding: 15px;
+}

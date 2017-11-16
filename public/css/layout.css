@@ -1,0 +1,97 @@
+/*全局样式设置*/
+body{
+    background-color: #f5f5f5;
+}
+a:hover{
+    color: #43E7ED !important;
+    text-decoration: none !important;
+}
+
+ul.nav-justified .active a{
+    background-color: #43E7ED !important ;
+    color: #fff !important;
+}
+.dropdown-menu{
+    z-index: 9999;
+    top: 50px;
+}
+
+/*顶层导航*/
+#nav_top{
+    background-color: #ffffff;
+}
+.navbar-brand{
+    padding: 0px !important;
+}
+a.navbar-brand img{
+    height: 50px;
+}
+/*第二级导航*/
+#nav_second{
+    margin-top: 51px;
+    background-color: #f5f5f5;
+    /*border-bottom: 4px solid #e9e9e9;*/
+    box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+    height: 50px;
+    padding-top: 3px;
+    font-size: 16px;
+    /*padding-top: 5px;*/
+    z-index: 999;
+}
+#nav_second a{
+    color: #0f0f0f ;
+}
+/*#nav_second a:hover{*/
+    /*color: #fff !important;*/
+/*}*/
+/*顶层导航内的元素*/
+#div_logo,form.navbar_form{
+    position: relative;
+    top: 5px;
+}
+#nav_uname{
+    height: 50px;
+}
+#nav_uname  a.dropdown-toggle{
+    height: 50px;
+}
+#div_logo a{
+    font-size: 40px;
+    color: #43E7ED;
+}
+
+ul.navbar-right{
+    margin-right: 15px;
+}
+.navbar_form{
+    font-size: 0;
+}
+#lg_re{
+    margin-right: 15px;
+}
+#search_input{
+    border-radius: 4px 0px 0px 4px;
+    width: 350px;
+}
+#search_btn{
+    color: #fff;
+    background-color: #43E7ED;
+    border-left: none;border-radius: 0 4px 4px 0;
+}
+#search_btn:hover{
+    background-color: #2aabd2;
+}
+
+#logined_uimg{
+    padding-right: 0px;
+    height: 30px;
+    width: 30px;
+}
+
+/*底部*/
+#footer{
+    /*height: 200px;*/
+    background-color: #fff;
+    margin-top: 25px;
+    padding-top: 15px;
+}

@@ -1,0 +1,22 @@
+#follow{
+    background-color: #fff;
+    padding: 15px;
+}
+.illustrate{
+    padding: 15px;
+    color: #555;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.follower_list{
+    padding: 15px;
+}
+.follow_info{
+    padding: 15px;
+}
+.follow_info img{
+    height: 35px;
+    width: 35px;
+    margin-right: 5px;
+}

@@ -1,0 +1,21 @@
+#create_article{
+    background-color: #fff;
+    padding: 15px;
+}
+.illustrate{
+    padding: 15px;
+    color: #555;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+#article_content{
+    padding: 15px;
+}
+#article_content form{
+    border: 2px solid #eee;
+    padding: 15px;
+}
+.art_title,.art_cat{
+   padding: 15px;
+}

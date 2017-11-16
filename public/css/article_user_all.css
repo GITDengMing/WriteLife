@@ -1,0 +1,15 @@
+.art_list{
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #eee;
+}
+.row{
+    margin-bottom: 15px;
+}
+.art_list_tit{
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.write_time{
+    margin-left: 15px;
+}

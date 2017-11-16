@@ -1,0 +1,47 @@
+.write{
+    /*height: 200px;*/
+    border: solid #eee 1px;
+    margin-bottom: 15px;
+    padding: 5px;
+    background-color: #fff
+}
+.write hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.write p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.write .write_cat{
+    font-weight: 600;
+    color: #666;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.write_cat .btn-primary{
+    float: right;
+    margin-right: 15px;
+}
+.write_cat .btn-info{
+    width: 20%;
+}
+span.write_time{
+    color: #aaa;
+    margin-left: 15px;
+}
+.impdate_item{
+    padding: 15px;
+}
+.write_simple{
+    padding: 15px;
+}
+.letters{
+    padding: 15px;
+}
+.from_name{
+    color: #aaa;
+    margin-left: 5px;
+}

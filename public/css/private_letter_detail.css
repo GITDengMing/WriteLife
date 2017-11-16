@@ -1,0 +1,26 @@
+.letter_detail{
+    background-color: #fff;
+}
+.title{
+    padding-top: 15px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.letter_main{
+    padding: 15px;
+}
+.other_info{
+    padding: 15px;
+    font-size: 20px;
+
+}
+.letter_body{
+    padding: 15px;
+    color: #000;
+    font-size: 18px;
+    border: 1px solid #eee;
+    margin-bottom: 15px;
+}
+.op a{
+    width: 15%;
+}

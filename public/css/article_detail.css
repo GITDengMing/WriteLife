@@ -1,0 +1,71 @@
+.detail,.writer{
+    background-color: #fff;
+    padding: 15px;
+}
+.writer_time{
+    color: #c2c2e2;
+}
+.write_time{
+    margin-left: 15px;
+}
+.article_detail{
+    padding: 15px;
+}
+.writername_right{
+    color: #a1a1a1;
+}
+.img img{
+    height: 80px;
+    width: 80px;
+}
+.op a{
+    margin-bottom: 5px;
+}
+.comment{
+    margin-top: 35px;
+    background-color: #fff;
+    padding: 15px;
+}
+.comment_number{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 15px;
+    display: inline-block;
+}
+.publish_btn{
+    height: 65px;
+    line-height: 65px;
+}
+.comment_user,.comment_user img{
+    height: 50px;
+}
+.comment_user img{
+    width: 50px;
+}
+.comment_user{
+    padding-left: 15px;
+}
+.contentofuser{
+    margin-left: 65px;
+    margin-top: 5px;
+}
+.comment_time{
+    margin-left: 15px;
+}
+.comment_floor{
+    margin-left: 5px;
+}
+.contentofuser{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.publish_area{
+    margin-top: 15px;
+}
+.publish_area textarea{
+    padding: 15px;
+    overflow: hidden;
+}
+.btn_del_comment{
+    margin-right: 150px;
+}

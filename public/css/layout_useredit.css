@@ -1,0 +1,32 @@
+.person_opr{
+    height: 160px;
+    background-color: #fff;
+    padding: 15px;
+}
+.opr_list{
+    list-style: none;
+    padding-left: 0px;
+}
+.opr_list a{
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color: black;
+}
+.opr_list a:hover{
+    color: black !important;
+}
+.opr_list a:focus{
+    text-decoration: none;
+}
+.opr_list li:hover{
+    background-color: #f5f5f5;
+}
+.ue_active a{
+    background-color: #42ABB4 !important;
+    color: #eee !important;
+}
+.col-md-9{
+    background-color: #fff;
+    padding: 25px;
+}

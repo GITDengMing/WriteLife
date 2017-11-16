@@ -1,0 +1,23 @@
+.illustrate{
+    background-color: #fff;
+    margin-bottom: 15px;
+    padding: 15px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.importantdate{
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.content{
+    padding: 15px;
+}
+div.content p{
+    display: inline-block;
+    padding-left: 15px;
+}
+.create_impdate_btn{
+    background-color: #fff;
+    padding: 30px;
+}
